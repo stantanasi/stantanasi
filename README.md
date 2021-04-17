@@ -28,3 +28,5 @@ I'm a passionate self-taught developer from France.
 <code>phpMyAdmin</code>
 
 <code>JSON:API</code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
