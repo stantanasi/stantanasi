@@ -1,8 +1,10 @@
 # Hi, I'm Lory-Stan 👋🏽
 
-[LinkedIn](https://www.linkedin.com/in/lory-stan-tanasi/)
+<a href="https://www.linkedin.com/in/lory-stan-tanasi/">
+  <img width="20px" alt="Lory-Stan TANASI | LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+</a>
 
-[Portfolio](https://stantanasi.github.io)
+#### [Portfolio 💻](https://stantanasi.github.io)
 
 I'm a passionate self-taught developer from France.
 
