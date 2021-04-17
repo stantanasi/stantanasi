@@ -26,3 +26,5 @@ I'm a passionate self-taught developer from France.
 <code>Node.js</code>
 <code>React</code>
 <code>phpMyAdmin</code>
+
+<code>JSON:API</code>
