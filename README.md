@@ -29,4 +29,6 @@ I'm a passionate self-taught developer from France.
 
 <code><img height="20" alt="JSON:API" src="https://makina-corpus.com/blog/metier/2017/jsonapi.png"></code>
 
+### GitHub statistics
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
