@@ -1,7 +1,10 @@
 # Hi, I'm Lory-Stan 👋🏽
 
-<a href="https://www.linkedin.com/in/lory-stan-tanasi/">
+<a href="https://www.linkedin.com/in/lory-stan-tanasi">
   <img width="20px" alt="Lory-Stan TANASI | LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+</a>
+<a href="https://www.instagram.com/stan.tns">
+  <img width="20px" alt="Lory-Stan TANASI | Instagram" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 
 #### [Portfolio 💻](https://stantanasi.github.io)
@@ -17,7 +20,7 @@ I'm a passionate self-taught developer from France.
 <code><img height="20" alt="Java" src="https://javaee.goffinet.org/images/kisspng-java-programming-language-programmer-computer-prog-5b234cd2562863.1181341815290400823529.png"></code>
 <code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 
