@@ -1,37 +1,35 @@
-# Hi, I'm Lory-Stan 👋🏽
+# Hi, I'm [Lory-Stan](https://stantanasi.github.io) 👋🏽
 
-<a href="https://www.linkedin.com/in/lory-stan-tanasi">
-  <img width="35px" alt="Lory-Stan TANASI | LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-</a>
-<a href="https://www.instagram.com/stan.tns">
-  <img width="35px" alt="Lory-Stan TANASI | Instagram" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
-</a>
+<a href="https://www.linkedin.com/in/lory-stan-tanasi" target="_blank"><img align="left" height="22px" alt="Lory-Stan TANASI | LinkedIn" src="./assets/images/linkedin.svg" /></a>
+<a href="https://www.instagram.com/stan.tns" target="_blank"><img align="left" height="22px" alt="Lory-Stan TANASI | Instagram" src="./assets/images/instagram.svg" /></a>
+<a href="https://twitter.com/StanTanasi" target="_blank"><img align="left" height="22px" alt="Lory-Stan TANASI | Twitter" src="./assets/images/twitter.svg" /></a>
+<a href="https://stantanasi.github.io">Portfolio 🛠</a>
 
-#### [Portfolio 💻](https://stantanasi.github.io)
 
 I'm a passionate self-taught developer from France.
 
-### Langages and Tools
 
-<code><img height="20" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="Java" src="https://javaee.goffinet.org/images/kisspng-java-programming-language-programmer-computer-prog-5b234cd2562863.1181341815290400823529.png"></code>
-<code><img height="20" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" alt="C" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+### 🔨 Langages and Tools
 
-<code><img height="20" alt="Android Studio" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"></code>
-<code><img height="20" alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="phpMyAdmin" src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png"></code>
+<img align="left" height="42px" alt="Android" src="./assets/images/android.svg" />
+<img align="left" height="42px" alt="Kotlin" src="./assets/images/kotlin.svg" />
+<img align="left" height="42px" alt="PHP" src="./assets/images/php.svg" />
+<img align="left" height="42px" alt="MySQL" src="./assets/images/mysql.svg" />
+<img align="left" height="42px" alt="Angular" src="./assets/images/angular.svg" />
+<img align="left" height="42px" alt="Typescript" src="./assets/images/typescript.svg" />
+<img align="left" height="42px" alt="Node.js" src="./assets/images/nodejs.svg" />
+<img align="left" height="42px" alt="JavaScript" src="./assets/images/javascript.svg" />
+<img align="left" height="42px" alt="React" src="./assets/images/react.svg" />
+<img align="left" height="42px" alt="Java" src="./assets/images/java.svg" />
+<img align="left" height="42px" alt="HTML5" src="./assets/images/html5.svg" />
+<img align="left" height="42px" alt="CSS3" src="./assets/images/css3.svg" />
+<img align="left" height="42px" alt="C#" src="./assets/images/csharp.svg" />
+<img align="left" height="42px" alt="C++" src="./assets/images/cplusplus.svg" />
+<img height="42px" alt="C" src="./assets/images/c.svg" />
 
-<code><img height="20" alt="JSON:API" src="https://makina-corpus.com/blog/metier/2017/jsonapi.png"></code>
+<br>
+<br>
 
-### GitHub statistics
+### 📊 GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
