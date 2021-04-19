@@ -27,9 +27,6 @@ I'm a passionate self-taught developer from France.
 <img align="left" height="42px" alt="C++" src="./assets/images/cplusplus.svg" />
 <img height="42px" alt="C" src="./assets/images/c.svg" />
 
-<br>
-<br>
-
 ### 📊 GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
