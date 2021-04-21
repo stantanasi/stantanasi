@@ -9,7 +9,7 @@
 I'm a passionate self-taught developer from France.
 
 
-### 🔨 Langages and Tools
+### 🔨 Languages and Tools
 
 <img align="left" height="42px" alt="Android" src="./assets/images/android.svg" />
 <img align="left" height="42px" alt="Kotlin" src="./assets/images/kotlin.svg" />
