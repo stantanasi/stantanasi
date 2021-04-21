@@ -25,7 +25,8 @@ I'm a passionate self-taught developer from France.
 <img align="left" height="42px" alt="CSS3" src="./assets/images/css3.svg" />
 <img align="left" height="42px" alt="C#" src="./assets/images/csharp.svg" />
 <img align="left" height="42px" alt="C++" src="./assets/images/cplusplus.svg" />
-<img height="42px" alt="C" src="./assets/images/c.svg" />
+<img align="left" height="42px" alt="C" src="./assets/images/c.svg" />
+<img height="42px" alt="Python" src="./assets/images/python.svg" />
 
 ### 📊 GitHub stats
 
