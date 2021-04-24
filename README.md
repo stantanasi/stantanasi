@@ -11,7 +11,23 @@ I'm a passionate self-taught developer from France.
 
 ### 🔨 Languages and Tools
 
-<img align="left" height="42px" alt="Android" src="./assets/images/android.svg" /><img align="left" height="42px" alt="Kotlin" src="./assets/images/kotlin.svg" /><img align="left" height="42px" alt="PHP" src="./assets/images/php.svg" /><img align="left" height="42px" alt="MySQL" src="./assets/images/mysql.svg" /><img align="left" height="42px" alt="Angular" src="./assets/images/angular.svg" /><img align="left" height="42px" alt="Typescript" src="./assets/images/typescript.svg" /><img align="left" height="42px" alt="Node.js" src="./assets/images/nodejs.svg" /><img align="left" height="42px" alt="JavaScript" src="./assets/images/javascript.svg" /><img align="left" height="42px" alt="React" src="./assets/images/react.svg" /><img align="left" height="42px" alt="Java" src="./assets/images/java.svg" /><img align="left" height="42px" alt="HTML5" src="./assets/images/html5.svg" /><img align="left" height="42px" alt="CSS3" src="./assets/images/css3.svg" /><img align="left" height="42px" alt="C#" src="./assets/images/csharp.svg" /><img align="left" height="42px" alt="C++" src="./assets/images/cplusplus.svg" /><img align="left" height="42px" alt="C" src="./assets/images/c.svg" /><img align="left" height="42px" alt="Flutter" src="./assets/images/flutter.svg" /><img height="42px" alt="Python" src="./assets/images/python.svg" />
+<img align="left" height="42px" alt="Android" src="./assets/images/android.svg" />
+<img align="left" height="42px" alt="Kotlin" src="./assets/images/kotlin.svg" />
+<img align="left" height="42px" alt="PHP" src="./assets/images/php.svg" />
+<img align="left" height="42px" alt="MySQL" src="./assets/images/mysql.svg" />
+<img align="left" height="42px" alt="Angular" src="./assets/images/angular.svg" />
+<img align="left" height="42px" alt="Typescript" src="./assets/images/typescript.svg" />
+<img align="left" height="42px" alt="Node.js" src="./assets/images/nodejs.svg" />
+<img align="left" height="42px" alt="JavaScript" src="./assets/images/javascript.svg" />
+<img align="left" height="42px" alt="React" src="./assets/images/react.svg" />
+<img align="left" height="42px" alt="Java" src="./assets/images/java.svg" />
+<img align="left" height="42px" alt="HTML5" src="./assets/images/html5.svg" />
+<img align="left" height="42px" alt="CSS3" src="./assets/images/css3.svg" />
+<img align="left" height="42px" alt="C#" src="./assets/images/csharp.svg" />
+<img align="left" height="42px" alt="C++" src="./assets/images/cplusplus.svg" />
+<img align="left" height="42px" alt="C" src="./assets/images/c.svg" />
+<img align="left" height="42px" alt="Flutter" src="./assets/images/flutter.svg" />
+<img height="42px" alt="Python" src="./assets/images/python.svg" />
 
 
 ### 📊 GitHub stats
