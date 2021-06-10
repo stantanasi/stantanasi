@@ -28,9 +28,10 @@ I'm a passionate self-taught developer from France.
 <img height="42px" alt="C++" src="./assets/images/cplusplus.svg" />  
 <img height="42px" alt="C" src="./assets/images/c.svg" />  
 <img height="42px" alt="Flutter" src="./assets/images/flutter.svg" />  
+<img height="42px" alt="R" src="./assets/images/r.svg" /> 
 <img height="42px" alt="Python" src="./assets/images/python.svg" />  
 
 
 ### 📊 GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stantanasi&langs_count=10&layout=compact)
