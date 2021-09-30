@@ -17,6 +17,7 @@ I'm a passionate self-taught developer from France.
 <img height="42px" title="Java" alt="Java" src="./assets/images/java.svg" />  
 <img height="42px" title="PHP" alt="PHP" src="./assets/images/php.svg" />  
 <img height="42px" title="MySQL" alt="MySQL" src="./assets/images/mysql.svg" />  
+<img height="42px" title="phpMyAdmin" alt="phpMyAdmin" src="./assets/images/php-my-admin.svg" />  
 <img height="42px" title="Angular" alt="Angular" src="./assets/images/angular.svg" />  
 <img height="42px" title="Typescript" alt="Typescript" src="./assets/images/typescript.svg" />  
 <img height="42px" title="Node.js" alt="Node.js" src="./assets/images/nodejs.svg" />  
