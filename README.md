@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/lory-stan-tanasi" target="_blank"><img height="22px" title="Lory-Stan TANASI | LinkedIn" alt="Lory-Stan TANASI | LinkedIn" src="./assets/images/linkedin.svg" /></a>  
 <a href="https://www.instagram.com/stan.tns" target="_blank"><img height="22px" title="Lory-Stan TANASI | Instagram" alt="Lory-Stan TANASI | Instagram" src="./assets/images/instagram.svg" /></a>  
 <a href="https://twitter.com/StanTanasi" target="_blank"><img height="22px" title="Lory-Stan TANASI | Twitter" alt="Lory-Stan TANASI | Twitter" src="./assets/images/twitter.svg" /></a>  
-<a title="Portfolio" href="https://stantanasi.github.io">Portfolio 🛠</a>  
-<a title="Resume" href="https://docs.google.com/document/d/1lE_4oHBLQV5tKlT6t3OKqG20fIo8HiGoXfMDn7dER8M">Resume 📄</a>  
+<a title="Portfolio" href="https://stantanasi.github.io" target="_blank">Portfolio 🛠</a>  
+<a title="Resume" href="https://docs.google.com/document/d/1lE_4oHBLQV5tKlT6t3OKqG20fIo8HiGoXfMDn7dER8M" target="_blank">Resume 📄</a>  
 
 
 I'm a passionate self-taught developer from France.
