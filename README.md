@@ -16,22 +16,22 @@ I'm Lory-Stan, a passionate mobile and web developer from **Paris, France**
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/lory-stan-tanasi" target="_blank">
-  <img width="40" height="30" title="LinkedIn profile" alt="LinkedIn profile" src="./assets/images/linkedin.svg" />
+  <img width="40" height="30" title="LinkedIn profile" alt="LinkedIn profile" src="./assets/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/stan.tns" target="_blank">
-  <img width="40" height="30" title="Instagram profile" alt="Instagram profile" src="./assets/images/instagram.svg" />
+  <img width="40" height="30" title="Instagram profile" alt="Instagram profile" src="./assets/icons/instagram.svg" />
 </a>
 
 ### Languages and Tools:
 
-<img height="42px" title="Android" alt="Android" src="./assets/images/android.svg" />
-<img height="42px" title="Kotlin" alt="Kotlin" src="./assets/images/kotlin.svg" />
-<img height="42px" title="React | React Native" alt="React | React Native" src="./assets/images/react.svg" />
-<img height="42px" title="Typescript" alt="Typescript" src="./assets/images/typescript.svg" />
-<img height="42px" title="Angular" alt="Angular" src="./assets/images/angular.svg" />
-<img height="42px" title="Node.js" alt="Node.js" src="./assets/images/nodejs.svg" />
-<img height="42px" title="MongoDB" alt="MongoDB" src="./assets/images/mongodb.svg" />
-<img height="42px" title="JavaScript" alt="JavaScript" src="./assets/images/javascript.svg" />
+<img height="42px" title="Android" alt="Android" src="./assets/icons/android.svg" />
+<img height="42px" title="Kotlin" alt="Kotlin" src="./assets/icons/kotlin.svg" />
+<img height="42px" title="React | React Native" alt="React | React Native" src="./assets/icons/react.svg" />
+<img height="42px" title="Typescript" alt="Typescript" src="./assets/icons/typescript.svg" />
+<img height="42px" title="Angular" alt="Angular" src="./assets/icons/angular.svg" />
+<img height="42px" title="Node.js" alt="Node.js" src="./assets/icons/nodejs.svg" />
+<img height="42px" title="MongoDB" alt="MongoDB" src="./assets/icons/mongodb.svg" />
+<img height="42px" title="JavaScript" alt="JavaScript" src="./assets/icons/javascript.svg" />
 
 ### Support me:
 
