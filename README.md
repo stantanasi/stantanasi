@@ -4,7 +4,7 @@
   <a title="Portfolio" href="https://stantanasi.github.io" target="_blank">
     <strong>Portfolio</strong>
   </a>
-  ·
+  <strong>&nbsp;·&nbsp;</strong>
   <a title="Resume" href="https://docs.google.com/document/d/1lE_4oHBLQV5tKlT6t3OKqG20fIo8HiGoXfMDn7dER8M" target="_blank">
     <strong>Resume</strong>
   </a>
