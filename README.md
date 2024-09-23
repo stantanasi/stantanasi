@@ -17,6 +17,7 @@ I'm Lory-Stan, a passionate mobile and web developer from **Paris, France**
 
 <a href="https://www.linkedin.com/in/lory-stan-tanasi" target="_blank"><img title="LinkedIn profile" alt="LinkedIn profile" src="./assets/icons/linkedin.svg" width="40" height="30" /></a>
 <a href="https://www.instagram.com/stan.tns" target="_blank"><img title="Instagram profile" alt="Instagram profile" src="./assets/icons/instagram.svg" width="40" height="30" /></a>
+<a href="https://www.malt.fr/profile/stantanasi" target="_blank"><img title="Malt profile" alt="Malt profile" src="./assets/icons/malt.svg" width="40" height="30" /></a>
 
 ### Languages and Tools:
 
