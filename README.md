@@ -24,7 +24,10 @@ I'm Lory-Stan, a passionate mobile and web developer from **Paris, France**
 <p>
   <img height="42" title="Android" alt="Android" src="./assets/icons/android.svg" />
   <img height="42" title="Kotlin" alt="Kotlin" src="./assets/icons/kotlin.svg" />
+  <img height="42" title="Next.js" alt="Next.js" src="./assets/icons/nextjs.svg" />
   <img height="42" title="React | React Native" alt="React | React Native" src="./assets/icons/react.svg" />
+  <img height="42" title="Expo" alt="Expo" src="./assets/icons/expo.svg" />
+  <img height="42" title="Android Studio" alt="Android Studio" src="./assets/icons/android-studio.svg" />
   <img height="42" title="Typescript" alt="Typescript" src="./assets/icons/typescript.svg" />
   <img height="42" title="Angular" alt="Angular" src="./assets/icons/angular.svg" />
   <img height="42" title="Node.js" alt="Node.js" src="./assets/icons/nodejs.svg" />
@@ -43,5 +46,5 @@ I'm Lory-Stan, a passionate mobile and web developer from **Paris, France**
 ---
 
 <p align="center">
-  © 2024 Lory-Stan TANASI. All rights reserved
+  © 2026 Lory-Stan TANASI. All rights reserved
 </p>
